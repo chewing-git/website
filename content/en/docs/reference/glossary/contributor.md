@@ -1,18 +1,18 @@
 ---
-title: Contributor
+title: 컨트리뷰터(Contributor)
 id: contributor
 date: 2018-04-12
-full_link: 
+full_link:
 short_description: >
-  Someone who donates code, documentation, or their time to help the Kubernetes project or community.
+쿠버네티스 프로젝트 또는 커뮤니티를 돕기 위해 코드, 문서 또는 시간을 기부하는 사람.
 
-aka: 
+aka:
 tags:
 - community
 ---
- Someone who donates code, documentation, or their time to help the Kubernetes project or community.
+쿠버네티스 프로젝트 또는 커뮤니티를 돕기 위해 코드, 문서 또는 시간을 기부하는 사람.
 
-<!--more--> 
+<!--more-->
 
-Contributions include pull requests (PRs), issues, feedback, {{< glossary_tooltip text="special interest groups (SIG)" term_id="sig" >}} participation, or organizing community events.
-
+기여에는 풀 리퀘스트(PR), 이슈, 피드백, {{< glossary_tooltip text="분과회(special interest 
+groups)" term_id="sig" >}} 참여, 또는 커뮤니티 행사 조직이 포함됩니다
